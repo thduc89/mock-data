@@ -1,11 +1,77 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+  "food_delivery": {
+    "home": {
+      "countries": [
+        {
+          "id": 1,
+          "name": "American",
+          "image": "https://i.ibb.co/rQJzfSv/ic-american-food.png"
+        },
+        {
+          "id": 2,
+          "name": "Mexican",
+          "image": "https://i.ibb.co/k88n40r/ic-mexican-food.png"
+        },
+        {
+          "id": 3,
+          "name": "Chinese",
+          "image": "https://i.ibb.co/0cR6ZLs/ic-chinese-food.png"
+        },
+        {
+          "id": 4,
+          "name": "Italian",
+          "image": "https://i.ibb.co/R0Tfn2m/ic-italian-food.png"
+        }
+      ],
+      "restaurants": [
+        {
+          "id": 1,
+          "name": "Los Pollos Hermonos",
+          "images": [
+            "https://i.ibb.co/bJ3Prr4/food-2.png"
+          ],
+          "time": "21 min",
+          "delivery_fee": "Free Delivery"
+        },
+        {
+          "id": 2,
+          "name": "Boundry Tavern & Grille",
+          "images": [
+            "https://i.ibb.co/rcFwVWM/img-boundry-tavern.png",
+            "https://i.ibb.co/0MNJ0jD/img-boundry-tavern-2.png"
+          ],
+          "time": "32 min",
+          "delivery_fee": "$2.99 Delivery"
+        },
+        {
+          "id": 3,
+          "name": "Burger Lover",
+          "images": [
+            "https://i.ibb.co/Z2LWZk2/food-5.png"
+          ],
+          "time": "10 min",
+          "delivery_fee": "$1.29 Delivery"
+        },
+        {
+          "id": 4,
+          "name": "ABC Bakery",
+          "images": [
+            "https://i.ibb.co/sK1ZLfd/food-3.png",
+            "https://i.ibb.co/BjgJTzs/food-1.png"
+          ],
+          "time": "15 min",
+          "delivery_fee": "Free Delivery"
+        },
+        {
+          "id": 5,
+          "name": "Gourmet Insane",
+          "images": [
+            "https://i.ibb.co/mJHs1fJ/food-4.png"
+          ],
+          "time": "5 min",
+          "delivery_fee": "$1.50 Delivery"
+        }
+      ]
     }
-  ],
-  "profile": {
-    "name": "typicode"
   }
 }
