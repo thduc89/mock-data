@@ -72,6 +72,53 @@
           "delivery_fee": "$1.50 Delivery"
         }
       ]
+    },
+    "restaurant_detail": {
+      "id": 1,
+      "name": "Los Pollos Hermonos",
+      "short_desc": "Mexican, Fast Food, Late Night",
+      "rating": 3.1,
+      "rating_count": 395,
+      "images": [
+        "https://i.ibb.co/bJ3Prr4/food-2.png"
+      ],
+      "time": 27,
+      "distance": 1.2,
+      "delivery_fee": "$3.99",
+      "menus": [
+        {
+          "id": 1,
+          "title": "Breakfast",
+          "dishes": [
+            {
+              "id": 1,
+              "name": "2 Extra Large Eggs with Meat",
+              "image": "https://i.ibb.co/mJHs1fJ/food-4.png",
+              "price": "$8.95"
+            },
+            {
+              "id": 2,
+              "name": "Belgium Waffle",
+              "image": "https://i.ibb.co/Q6V49Z9/dish-4.png",
+              "price": "$14.5"
+            }
+          ]
+        }
+      ],
+      "fan_favorites": [
+        {
+          "id": 1,
+          "name": "Fresh Log & Bagel",
+          "image": "https://i.ibb.co/vwxNXcY/favorite-1.png",
+          "price": "$11.99"
+        },
+        {
+          "id": 2,
+          "name": "Cereal",
+          "image": "https://i.ibb.co/WWvZdMZ/favorite-2.png",
+          "price": "$3.99"
+        }
+      ]
     }
   }
 }
