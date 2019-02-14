@@ -145,6 +145,32 @@
         "description": "With choice of bacon, sausage links, turkey sausage or canadian bacon. Servedwith red diced potatos.choice of toast or a side of pancakes",
         "price": "$14.99"
       }
-    ]
+    ],
+    "dish_detail": {
+      "id": 1,
+      "name": "2 Large Eggs with Meat",
+      "description": "With choice of bacon, sausage links, turkey sausage or canadian bacon. Servedwith red diced potatos.choice of toast or a side of pancakes",
+      "price": "$12.95",
+      "image": "https://i.ibb.co/mJHs1fJ/food-4.png",
+      "required_options": {
+        "title": "Egg Preparation Style",
+        "type": 1,
+        "options": [
+          "Over Easy",
+          "Over Hard",
+          "Over Medium",
+          "Scambled",
+          "Sunny Side-Up"
+        ]
+      },
+      "additional_options": {
+        "title": "Additional",
+        "type": 2,
+        "options": [
+          "Free Delivery",
+          "Available in Store"
+        ]
+      }
+    }
   }
 }
