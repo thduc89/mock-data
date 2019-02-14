@@ -119,6 +119,32 @@
           "price": "$3.99"
         }
       ]
-    }
+    },
+    "menu_items": [
+      {
+        "id": 1,
+        "name": "Egg your way",
+        "description": "With choice of bacon, sausage links, turkey sausage or canadian bacon. Servedwith red diced potatos.choice of toast or a side of pancakes",
+        "price": "$14.99"
+      },
+      {
+        "id": 2,
+        "name": "Bacon and Chicken Waffle",
+        "description": "With choice of bacon, sausage links, turkey sausage or canadian bacon. Servedwith red diced potatos.choice of toast or a side of pancakes",
+        "price": "$14.99"
+      },
+      {
+        "id": 3,
+        "name": "Amy Denver",
+        "description": "With choice of bacon, sausage links, turkey sausage or canadian bacon. Servedwith red diced potatos.choice of toast or a side of pancakes",
+        "price": "$14.99"
+      },
+      {
+        "id": 4,
+        "name": "Roast Beef",
+        "description": "With choice of bacon, sausage links, turkey sausage or canadian bacon. Servedwith red diced potatos.choice of toast or a side of pancakes",
+        "price": "$14.99"
+      }
+    ]
   }
 }
